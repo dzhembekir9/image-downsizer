@@ -1,0 +1,16 @@
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.exe
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.deps.json
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.runtimeconfig.json
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.dll
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.pdb
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.Form1.resources
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.csproj.GenerateResource.cache
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.AssemblyInfoInputs.cache
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.AssemblyInfo.cs
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.csproj.CoreCompileInputs.cache
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.dll
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\refint\ImageDownsizer.dll
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.pdb
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.genruntimeconfig.cache
+C:\Users\cem_b\source\repos\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ref\ImageDownsizer.dll
